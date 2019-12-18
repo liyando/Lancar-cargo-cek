@@ -1,0 +1,1 @@
+Ganti database sesuai di page auto dan page index bagian bawah
